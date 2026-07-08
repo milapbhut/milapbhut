@@ -83,16 +83,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=milapbhut&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🚀 Current Learning
 
 ```text
@@ -153,7 +143,7 @@ while(alive)
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:bhutmilap@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
