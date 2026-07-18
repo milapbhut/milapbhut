@@ -72,27 +72,12 @@ Location: India 🇮🇳
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milapbhut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milapbhut&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=milapbhut&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=milapbhut&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=milapbhut&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-</div>
-
----
 
 ## 🚀 Current Learning Progress
 
